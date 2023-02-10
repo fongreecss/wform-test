@@ -1,0 +1,17 @@
+C:\Users\alex\Documents\windowsforms\wform-test\bin\Debug\net6.0-windows\wform-test.exe
+C:\Users\alex\Documents\windowsforms\wform-test\bin\Debug\net6.0-windows\wform-test.deps.json
+C:\Users\alex\Documents\windowsforms\wform-test\bin\Debug\net6.0-windows\wform-test.runtimeconfig.json
+C:\Users\alex\Documents\windowsforms\wform-test\bin\Debug\net6.0-windows\wform-test.dll
+C:\Users\alex\Documents\windowsforms\wform-test\bin\Debug\net6.0-windows\wform-test.pdb
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\wform-test.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\wform_test.Form1.resources
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\wform-test.csproj.GenerateResource.cache
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\wform-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\wform-test.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\wform-test.AssemblyInfo.cs
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\wform-test.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\wform-test.dll
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\refint\wform-test.dll
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\wform-test.pdb
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\wform-test.genruntimeconfig.cache
+C:\Users\alex\Documents\windowsforms\wform-test\obj\Debug\net6.0-windows\ref\wform-test.dll
